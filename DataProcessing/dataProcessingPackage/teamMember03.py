@@ -1,3 +1,15 @@
+# File Name : teamMember03.py
+# Student Name: Hailey Manuel, Will Claus, Abel Yemaneab
+# email:  yemaneag@mail.uc.edu, clausws@mail.uc.edu, manuelhv@mail.uc.edu
+# Assignment Number: Assignment 08
+# Due Date:   04/13/2025
+# Course #/Section:   IS4010-001
+# Semester/Year:   Spring 2025
+# Brief Description of the assignment:  This assignment teaches us how to manipulate data from a csv
+
+# Brief Description of what this module does. This module lists the total amount of cars per brand.
+# Citations:
+
 # teamMember03.py
 from collections import Counter
 class teamMember03:
